@@ -1,7 +1,5 @@
-
-```markdown
-# Travel Itinerary Management Backend
-
+### Travel Itinerary Management Backend
+<!-- ```markdown -->
 This is a backend system for managing travel itineraries, developed as part of a full-stack SDE intern assignment. The system includes a database architecture for trip itineraries, RESTful API endpoints for managing itineraries, and an MCP server for recommending itineraries based on the number of nights.
 
 ### Features
