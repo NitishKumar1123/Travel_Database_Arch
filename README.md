@@ -1,11 +1,10 @@
-# ---------- README.md ----------
 
 ```markdown
 # Travel Itinerary Management Backend
 
 This is a backend system for managing travel itineraries, developed as part of a full-stack SDE intern assignment. The system includes a database architecture for trip itineraries, RESTful API endpoints for managing itineraries, and an MCP server for recommending itineraries based on the number of nights.
 
-## Features
+### Features
 
 - **Database Schema:** Design and implementation of a database schema to manage trip itineraries, including hotel accommodations, transfers, and activities.
 - **API Endpoints:**
@@ -13,7 +12,7 @@ This is a backend system for managing travel itineraries, developed as part of a
   - **View Itinerary:** Allows viewing existing itineraries.
 - **MCP Server:** A server that provides recommended itineraries based on the number of nights.
 
-## Tech Stack
+### Tech Stack
 
 - **Python 3.12+**
 - **FastAPI** for creating RESTful APIs
@@ -21,7 +20,7 @@ This is a backend system for managing travel itineraries, developed as part of a
 - **Uvicorn** for running the FastAPI application
 - **pytest** for testing the API endpoints
 
-## Getting Started
+### Getting Started
 
 ### Prerequisites
 
