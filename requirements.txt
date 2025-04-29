@@ -1,0 +1,9 @@
+# ---------- requirements.txt ----------
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+faker
+alembic
+pytest
+httpx
