@@ -1,5 +1,6 @@
 # Travel Database Architecture - One-Pager Documentation
 GitHub Link: https://github.com/NitishKumar1123/Travel_Database_Arch
+Demo Video Link: https://drive.google.com/drive/folders/1FZbHeXbqstBWqz30PcSR58zJ1JVUtTYT?usp=drive_link
 ## Steps Followed to Complete the Assignment
 
 1. **Project Setup**
